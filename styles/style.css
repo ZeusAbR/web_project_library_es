@@ -246,13 +246,13 @@
 } /*pienso que aqui tambien puede haber una modificacion para que se reposicionen los nombres  */
 
 .person_name_feynman {
-  top: 0;
+  top: -30px;
   left: 319px;
 }
 
 .person_name_burbidge {
   top: 96px;
-right:152px;
+right: 125px;
 }
 
 .person_name_cannon {
