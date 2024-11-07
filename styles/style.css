@@ -324,7 +324,7 @@ bottom: 82px;
 .step {
   width: 220px;
   flex-wrap: wrap;
-  justify-content: baseline;
+
   /* Agrega estilos */
 }
 
